@@ -3,9 +3,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Observational+Astrophysicist;Research+Scholar+@IUCAA;see+my+personal+webpage;https://eshitaban18.github.io/"></a>
 </p>
 
-## <img src="./gifs/rocket.webp" width = 60px />  About me
+## <img src="https://github.com/eshitaban18/eshitaban18/blob/3855bfff7ca7780becd1c850aeb40043b3c0ce10/gifs/rocket.webp" width = 60px />  About me
 
-<img align="right" src="./gifs/girl_coder.gif" width = 250px>
+<img align="right" src="https://github.com/eshitaban18/eshitaban18/blob/3855bfff7ca7780becd1c850aeb40043b3c0ce10/gifs/girl_coder.gif" width = 250px>
 
 I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter-University Centre for Astronomy and Astrophysics (IUCAA) in Pune, India. My research interests lie in the field of extragalactic astronomy. Utilizing advanced spectroscopy and imaging techniques, I delve into the evolutionary processes of galaxies, which serve as the fundamental "building-blocks" of our universe.
 
@@ -13,7 +13,7 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter-Univer
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?user=pNvsLn0AAAAJ&hl=en&authuser=1)
 - 💬 Mail me at: eshitaban18@iucaa.in
 
-## Have a look at my [personal webpage](https://eshitaban18.github.io/) <img align="center" src="./gifs/look.gif" width = 250px>
+## Have a look at my [personal webpage](https://eshitaban18.github.io/) <img align="center" src="https://github.com/eshitaban18/eshitaban18/tree/main/gifs/look.gif" width = 250px>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
