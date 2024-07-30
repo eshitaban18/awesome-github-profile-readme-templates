@@ -13,7 +13,7 @@ I am Eshita Banerjee (She/ Her), currently pursuing my Ph.D. at the Inter-Univer
 - You can see my `publications` at [Google Scholar](https://scholar.google.com/citations?user=pNvsLn0AAAAJ&hl=en&authuser=1)
 - 💬 Mail me at: eshitaban18@iucaa.in
 
-## Have a look at my [personal webpage](https://eshitaban18.github.io/) <img align="center" src="https://github.com/eshitaban18/eshitaban18/tree/main/gifs/look.gif" width = 250px>
+## Have a look at my [personal webpage](https://eshitaban18.github.io/) <img align="center" src="https://github.com/eshitaban18/eshitaban18/blob/3855bfff7ca7780becd1c850aeb40043b3c0ce10/gifs/look.gif" width = 250px>
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
